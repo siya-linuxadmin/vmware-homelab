@@ -16,3 +16,10 @@ This lab helps me practice virtualization, networking, and system administration
 
 ## 📂 Folder Structure
 
+## Solution:
+
+Switched the VM’s network adapter to Bridged Mode.
+
+![SSH Bridged Network Fix](./bridged-network-fix.png)
+
+
